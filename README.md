@@ -6,11 +6,13 @@ The scripts are numbered **1 to 5**. Each one works independently: you only need
 
 | Script | Tool | Interface | Main purpose |
 | --- | --- | --- | --- |
-| [`1.py`](1.py) | PDF Cropper | Desktop GUI | Crop selected pages using reusable presets; remove unwanted pages |
-| [`2.py`](2.py) | PDF Merger | Desktop GUI | Combine multiple PDFs in a chosen order |
-| [`3.py`](3.py) | PDF to Images | Terminal | Save PDF pages as separate image files |
-| [`4.py`](4.py) | Images to PDF | Desktop GUI | Put multiple images into one PDF |
-| [`5.py`](5.py) | PDF Compressor | Terminal | Try to reduce PDF size by repacking its data |
+| Script | Tool | Interface | Description |
+|---|---|---|---|
+| [`1-pdf cropper.py`](1-pdf%20cropper.py) | PDF Cropper | Desktop GUI | Crop selected pages using reusable presets; remove unwanted pages |
+| [`2-pdf merger.py`](2-pdf%20merger.py) | PDF Merger | Desktop GUI | Combine multiple PDFs in a chosen order |
+| [`3-pdf compressor.py`](3-pdf%20compressor.py) | PDF Compressor | Terminal | Try to reduce PDF size by repacking its data |
+| [`4-pdf to images.py`](4-pdf%20to%20images.py) | PDF to Images | Terminal | Save PDF pages as separate image files |
+| [`5-image to pdf.py`](5-image%20to%20pdf.py) | Images to PDF | Desktop GUI | Put multiple images into one PDF |
 
 ## Installation
 
