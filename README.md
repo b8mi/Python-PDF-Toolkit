@@ -7,7 +7,6 @@ The scripts are numbered **1 to 5**. Each one works independently: you only need
 | Script | Tool | Interface | Main purpose |
 | --- | --- | --- | --- |
 | Script | Tool | Interface | Description |
-|---|---|---|---|
 | [`1-pdf cropper.py`](1-pdf%20cropper.py) | PDF Cropper | Desktop GUI | Crop selected pages using reusable presets; remove unwanted pages |
 | [`2-pdf merger.py`](2-pdf%20merger.py) | PDF Merger | Desktop GUI | Combine multiple PDFs in a chosen order |
 | [`3-pdf compressor.py`](3-pdf%20compressor.py) | PDF Compressor | Terminal | Try to reduce PDF size by repacking its data |
