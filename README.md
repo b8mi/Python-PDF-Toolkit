@@ -151,18 +151,19 @@ PDF-Tools/
 └── 5.py     # PDF Compressor
 ```
 
-All five scripts work locally with the files you select; no cloud account is required. They are designed to be used separately, not as parts of one combined application.
+## About This Project
 
-## Before using or sharing files
+This project provides five simple Python tools for working with PDF files directly on your computer, without relying on online PDF websites or cloud services.
 
-- Keep a copy of the original PDF until you've checked the output.
-- Saving over an existing filename may replace that file, depending on the tool and destination.
-- Avoid uploading private documents, exported PDF files, or the cropper's debug log to GitHub. The supplied `.gitignore` helps exclude these.
+Whether you need to merge multiple PDFs, crop specific pages, compress a document, or convert between PDFs and images, these tools let you do everything locally.
 
-## AI assistance
+**Why use these tools?**
+- **Works offline:** No Wi-Fi or internet connection required after installing the dependencies.
+- **Privacy:** Your documents stay on your computer instead of being uploaded to third-party websites.
+- **Free to use:** No subscriptions, accounts, or paid services.
+- **Simple:** Each script focuses on a specific task and can be used independently.
+- **No unnecessary steps:** Select your files, process them, and save the result!
 
-AI was used to explain parts of the code for easier debugging and to help write the documentation. Each Python script includes this disclosure at the top.
+## AI Assistance
 
-## License
-
-No license has been selected yet. A `LICENSE` file can be added later to specify how others may use or modify these scripts.
+AI was used to explain parts of the code for easier debugging and to assist with documentation. Each script includes an AI disclosure at the top.
